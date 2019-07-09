@@ -5,7 +5,7 @@ http://nodered.org
 [![Build Status](https://travis-ci.org/node-red/node-red.svg?branch=master)](https://travis-ci.org/node-red/node-red)
 [![Coverage Status](https://coveralls.io/repos/node-red/node-red/badge.svg?branch=master)](https://coveralls.io/r/node-red/node-red?branch=master)
 
-A visual tool for wiring the Internet of Things.
+A visual tool for wiring the Internet of Things. Changed to work with OCP s2i and include Kafka nodes. Might remove Pi nodes as well.
 
 ![Node-RED: A visual tool for wiring the Internet of Things](http://nodered.org/images/node-red-screenshot.png)
 
